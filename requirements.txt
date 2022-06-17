@@ -1,0 +1,4 @@
+py-trello
+nextcloud-deck
+pyyaml
+nextcloud-api-wrapper
