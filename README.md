@@ -1,4 +1,5 @@
 # Bi-directional Sync between Nextcloud's Deck and Trello
+### This project is a WIP and not yet ready for production use
 Do your friends or colleagues want to use Trello and do you dislike
 logging into separate services as much as I do? Now you can synchronize
 your Trello boards to your Nextcloud Deck.
